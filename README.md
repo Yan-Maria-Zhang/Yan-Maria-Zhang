@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yan-Maria-Zhang
+- 👋 Hi, I’m @YanM.Zhang
 - 👀 I’m interested in Affective Computing
 - 🌱 I’m currently learning Human-Computer Interaction
 - 💞️ I’m looking to collaborate on AI related projects
